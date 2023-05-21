@@ -10,7 +10,20 @@
     --secondary: black;
 }
 
+
+header{
+    height: 70px;
+    background-color:var(--primary-color);
+
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+
+}
 .logo{
+    float:left
 
 }
 
