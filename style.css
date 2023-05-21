@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+:root{
+    --font-family:roboto,sans-serif, helvetica, arial, sans-serif;
+    --primary-color:rgb(76, 198, 194);
+    --secondary: black;
+}
+
+.logo{
+
+}
+
+.menu{
+    
+}
